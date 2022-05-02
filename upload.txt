@@ -1,0 +1,7 @@
+Please upload your .py files for the assessed tasks. Make sure that your filenames are sensible (e.g. UDPCalcClient.py, TCPDocClient.py) and that your client and server files that you submit are preconfigured to be tested on localhost (127.0.0.1).
+
+Alongside your programs, submit a DOCX or PDF document that provides a short description of each of your solutions to the tasks above. This documentation should detail:
+
+A brief description of your applications and how they fulfil the aims of the task given
+Outline any Python libraries used for your solution and how you have used them
+Evidence of testing performed (e.g. screenshots showing successful output)
